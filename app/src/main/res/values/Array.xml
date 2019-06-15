@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color1">
+        <item>negro</item>
+        <item>cafe</item>
+        <item>rojo</item>
+        <item>naranja</item>
+        <item>amarillo</item>
+        <item>verde</item>
+        <item>azul</item>
+        <item>violeta</item>
+        <item>gris</item>
+        <item>blanco</item>
+    </string-array>
+    <string-array name="banda3">
+        <item></item>
+        <item>negro</item>
+        <item>cafe</item>
+        <item>rojo</item>
+        <item>naranja</item>
+        <item>amarillo</item>
+        <item>verde</item>
+        <item>azul</item>
+        <item>violeta</item>
+        <item>gris</item>
+        <item>blanco</item>
+    </string-array>
+    <string-array name="color2">
+        <item>cafe</item>
+        <item>rojo</item>
+        <item>verde</item>
+        <item>azul</item>
+        <item>violeta</item>
+        <item>gris</item>
+        <item>dorado</item>
+        <item>plateado</item>
+    </string-array>
+</resources>

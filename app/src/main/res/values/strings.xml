@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaxiGuia</string>
+    <string name="conversor">Conversor</string>
+    <string name="formulas">Formulas</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="resistencias">Resistencias</string>
+</resources>
